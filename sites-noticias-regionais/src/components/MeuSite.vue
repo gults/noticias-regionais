@@ -18,9 +18,9 @@
     <div>
         <ul class="list">
             <HeaderMenu title="Adriano" href="#" />
-            <HeaderMenu title="ultimas noticias" href="#" />
-            <HeaderMenu title="ultimas noticias" href="#" />
-            <HeaderMenu title="ultimas noticias" href="#" />
+            <HeaderMenu title="gustavo" href="#" />
+            <HeaderMenu title="sei la" href="#" />
+            <HeaderMenu title="talvez" href="#" />
         </ul>
     </div>
     <div class="main-card">
